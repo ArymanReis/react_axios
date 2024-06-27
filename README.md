@@ -7,8 +7,6 @@
 #### Imagem do projeto
 ##### Nome: Blog com React > Vite > Axios > JSON.
 
-#### Divirta-se: https://arymanreis.github.io/quiz_programador_react/ 
-
 <img align="center" src="react-axios/public/projeto.png" alt="imagem do projeto"/>
 
 #### Tecnologias Usadas no projeto
