@@ -5,7 +5,7 @@
 - Intituição: Udemy
 
 #### Imagem do projeto
-##### Nome: Blog com React > Axios > Vite > JSON.
+##### Nome: Blog com React > Vite > Axios > JSON.
 
 #### Divirta-se: https://arymanreis.github.io/quiz_programador_react/ 
 
