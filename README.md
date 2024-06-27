@@ -7,6 +7,8 @@
 #### Imagem do projeto
 ##### Nome: Blog com React > Vite > Axios > JSON.
 
+##### Link: https://react-axios-two.vercel.app/
+
 <img align="center" src="react-axios/public/projeto.png" alt="imagem do projeto"/>
 
 #### Tecnologias Usadas no projeto
